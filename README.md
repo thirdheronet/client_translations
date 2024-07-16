@@ -3,9 +3,10 @@
 https://docs.google.com/spreadsheets/d/1XRr_DSzgCOdLwhypRUDCgzm1v0q3UGZvUus6RpZXrdw/edit?usp=sharing
 
 # How to edit?
+Since .ods is binary format then git diff is not good idea and external excel diff tools are not supported then for edit:
+
 ### 1.) First solution (requires a GitHub account):
 
-  Since .ods is binary format then git diff is not good idea and external excel diff tools are not supported then for edit:
   1. Create a new issue.
   2. Type what you want change:
      
