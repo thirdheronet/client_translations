@@ -2,6 +2,8 @@
 
 https://docs.google.com/spreadsheets/d/1XRr_DSzgCOdLwhypRUDCgzm1v0q3UGZvUus6RpZXrdw/edit?usp=sharing
 
+(this preview will be deleted in future, coz goal is don't use any Google services, even what are not directly connected with the game)
+
 # How to edit?
 Since .ods is binary format then git diff is not good idea and external excel diff tools are not supported then for edit:
 
