@@ -22,3 +22,6 @@ Since .ods is binary format then git diff is not good idea and external excel di
   1. Join the Community Discord (https://discord.com/invite/GpcT3N4x3E).
   2. Direct message **ThirdHero**, the admin, and explain what changes you want to make and why. Also, include your Google email address so you can get permission to modify the table.
   3. You will get access for 24 hours to edit the table.
+
+(this second solution will be deleted in future, coz goal is don't use any Google services, even what are not directly connected with the game)
+
